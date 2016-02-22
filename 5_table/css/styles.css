@@ -1,0 +1,54 @@
+table{
+	border-collapse: collapse;
+	border: 9px solid white;
+	width: 500px;
+	height: 540px;
+}
+
+td{
+	border: 8px solid black;
+	color: white;
+	
+}
+/*All yellow boxes*/ 
+ .yellow_box{
+	 background: yellow;
+	 width: 165px;
+	 height: 47px;
+ }
+ 
+ .yellow2{
+	 background: yellow;
+	 width:165px;
+	 height: 129px;
+ }
+ 
+  .yellow3{
+	 background: yellow;
+	 width:50px;
+	 height: 135px;
+ }
+ /*Big Red box*/
+ .red_box {
+	 background: red;
+	 height:268px;
+	 width: 268px;
+ }
+ /*All black boxes*/
+ .black_box {
+	 width: 57px;
+	 height: 57px;
+	 background: #0e0d0d;
+ }
+ 
+  .black2 {
+	 width: 127px;
+	 height: 30px;
+	 background: black;
+ }
+ /*Blue box*/
+ .blue_box {
+	 width: 165px;
+	 height: 96px;
+	 background: blue;
+ }
